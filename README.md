@@ -163,9 +163,9 @@ Higher Secondary Education — 2023
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/DHARNISH123
-- **Portfolio:** https://dharnish123.github.io/my_portfolio/
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email address
+- **Portfolio:** https://portfolio-f-dusky.vercel.app/
+- **LinkedIn:** linkedin.com/in/dharnishv23
+- **Email:** dharnidharni2356@gmail.com
 
 ---
 
